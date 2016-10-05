@@ -6,8 +6,8 @@ namespace SortingAlgorithms
 	{
 		static SortingManager currentManager = new SortingManager ();
 
-		bool created = false;
-		bool filled = false; 
+		//bool created = false;
+		//bool filled = false; 
 
 		public int[] array4Sorting;
 		
@@ -55,7 +55,7 @@ namespace SortingAlgorithms
 			//if (currentManager.saveInputArrSize == 0) 
 			//currentManager.takeArraySize ();
 			
-			int[] array4Sorting = { 24, 2, 14, 212, 424, 1, 3, 4, 12, 54, 66, 82, };
+			int[] array4Sorting = { 24,2,14,212,424,1,3,4,12,54,66,82,3,353,124,514,163,216,2614,161,346 };
 			//int[] array4Sorting = new int[currentManager.giveArraySize()]; 
 			int temp;
 
@@ -89,7 +89,6 @@ namespace SortingAlgorithms
 			// These two int are the left most number, and right must number.
 			int i = leftSide;
 			int j = rightSide;
-
 			// Here it test whether the left most value is creater or equal to the right side value 
 			if (leftSide >= rightSide) 
 			{
