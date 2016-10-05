@@ -1,0 +1,5 @@
+/Users/SuneKlem/Projects/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/SuneKlem/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.exe.mdb
+/Users/SuneKlem/Projects/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.exe
+/Users/SuneKlem/Projects/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.exe
+/Users/SuneKlem/Projects/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.exe.mdb
